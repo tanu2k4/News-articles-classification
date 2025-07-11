@@ -64,9 +64,6 @@ pip install pandas numpy tensorflow nltk gensim matplotlib
 ---
 
 ### **Contributors**
-- **Sachin Gaikwad**
-- **Aarya Pawar**
-- **Shikhar Kanauje**
-- **Yash Dilip Phalke**
+- **Bhup Singh**
 
 For any queries, feel free to open an issue.
